@@ -61,5 +61,3 @@ As an extra challenge, a utility function `formatNumber()` has been implemented 
 
 ---
 
-By implementing a modular architecture and leveraging import and export functionalities, WorkAround Explorer offers users a seamless experience for exploring salary data in the tech industry. For any inquiries or feedback, please contact the WorkAround team.
-
