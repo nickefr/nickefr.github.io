@@ -21,7 +21,7 @@ Upon selecting a role and a company, the relevant data is dynamically displayed,
 
 To use WorkAround Explorer, simply follow these steps:
 
-1. Navigate to the website: [WorkAround Explorer](https://nickefr.github.io/workaround-explorer/)
+1. Navigate to the website: [WorkAround Explorer](https://nickefr.github.io/)
 2. Select a role from the first column.
 3. Select a company from the second column.
 4. View the relevant salary data displayed in the third column.
